@@ -8,7 +8,7 @@ public class Main {
 
     public static void main(String[] args) {
         CCuenta cuenta1;
-        double saldoActual;
+        double saldoActual;//cambio
 
         operativa_cuenta();
     }
@@ -43,7 +43,7 @@ public class Main {
         }
     }
 }
-//luego el resultado de la ejecución del programa es el siguiente:
+//luego el resultado de la ejecución del programa es el siguiente:...
 // El saldo actual es2500.0
 // Ingreso en cuenta
 // Si no se produce ninguna excepción, el saldo final de la cuenta será de 895 euros.
